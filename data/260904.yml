@@ -7,7 +7,7 @@ about:
   head: 1a8c618
   archived: false
   latestVersion: v2.47.0
-  collectedAt: 2026-09-04T19:43:10Z
+  collectedAt: 2026-09-04T20:52:07Z
 timeline:
   created: 2016-10-19
   lastCommit: 2026-07-22
@@ -77,5 +77,18 @@ total:
   openIssue: 29
   commit: 36
 ---
+path: /home/runner/.x-repo/github.com/IBM-Cloud/ibm-cloud-cli-release
+collectedAt: 2026-09-04T20:52:07Z
+loc:
+  Markdown:
+    code: 0
+    comments: 39
+    blanks: 27
+    files: 1
+total:
+  code: 0
+  comments: 39
+  blanks: 27
+  files: 1
 ---
 
