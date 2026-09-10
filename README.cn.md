@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-![ibm-cloud-cli-release](https://repo.x-cmd.io/ibm-cloud-cli-release.svg)
+![ibm-cloud-cli-release](https://repo.x-cmd.io/ibm-cloud-cli-release.svg?lang=zh)
 
 ## 安装
 
@@ -19,7 +19,6 @@ x install ibm-cloud-cli-release
 
 - **最新版本**: `v2.47.0` (2026-08-28)
 - **最近提交**: 2026-07-22
-- **发布时间**: 2026-08-28T16:16:53Z
 
 ## 流行度
 
@@ -34,8 +33,11 @@ x install ibm-cloud-cli-release
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 1 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 2 | 0 | 1 | 0 | 0 | 1 |
 | 90d | 2026-06-12 | 4 | 0 | 1 | 0 | 2 | 1 |
+| last180d | 2026-03-14 | 7 | 0 | 1 | 0 | 4 | 1 |
 | 360d | 2025-09-15 | 15 | 0 | 1 | 0 | 6 | 2 |
+| last720d | 2024-09-20 | 31 | 0 | 1 | 3 | 12 | 6 |
 
 ## 改进这些数据
 
@@ -46,4 +48,4 @@ ibm-cloud-cli-release 的安装元数据由 [x-cmd/install](https://github.com/x
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:54:46Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:44:49Z._
