@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-![ibm-cloud-cli-release](https://repo.x-cmd.io/ibm-cloud-cli-release.svg)
+[![x-cmd/install — ibm-cloud-cli-release Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ibm-cloud-cli-release.svg)](https://x-cmd.com/install/ibm-cloud-cli-release)
 
 ## Install
 
@@ -22,7 +22,7 @@ x install ibm-cloud-cli-release
 
 ## Popularity
 
-- **Stars**: 159 · **Forks**: 73 · **Open issues**: 219 · **Contributors**: 11
+- **Stars**: 160 · **Forks**: 74 · **Open issues**: 219 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -32,12 +32,12 @@ x install ibm-cloud-cli-release
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 3 | 0 | 1 | 0 | 0 | 1 |
-| 90d | 2026-06-20 | 4 | 0 | 1 | 0 | 2 | 1 |
-| last180d | 2026-03-22 | 8 | 0 | 1 | 0 | 4 | 1 |
-| 360d | 2025-09-23 | 16 | 0 | 1 | 0 | 6 | 2 |
-| last720d | 2024-09-28 | 32 | 0 | 1 | 3 | 12 | 5 |
+| 30d | 2026-08-21 | 2 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 2 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 4 | 0 | 1 | 0 | 2 | 1 |
+| last180d | 2026-03-24 | 8 | 0 | 1 | 0 | 4 | 1 |
+| 360d | 2025-09-25 | 15 | 0 | 1 | 0 | 6 | 2 |
+| last720d | 2024-09-30 | 32 | 0 | 1 | 3 | 12 | 5 |
 
 ## Improve this data
 
@@ -48,4 +48,4 @@ Install metadata for ibm-cloud-cli-release lives in the [x-cmd/install](https://
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:57:29Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:06:48Z._
