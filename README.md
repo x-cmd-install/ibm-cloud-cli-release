@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-[![x-cmd/install — ibm-cloud-cli-release Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ibm-cloud-cli-release.svg)](https://x-cmd.com/install/ibm-cloud-cli-release)
+[![x-cmd/install — ibm-cloud-cli-release Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ibm-cloud-cli-release.svg)](https://x-cmd.com/install/ibm-cloud-cli-release)
 
 ## Install
 
@@ -32,12 +32,12 @@ x install ibm-cloud-cli-release
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 2 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 4 | 0 | 1 | 0 | 2 | 1 |
-| last180d | 2026-03-26 | 8 | 0 | 1 | 0 | 4 | 1 |
-| 360d | 2025-09-27 | 15 | 0 | 1 | 0 | 6 | 2 |
-| last720d | 2024-10-02 | 31 | 0 | 1 | 3 | 12 | 5 |
+| 30d | 2026-08-24 | 2 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 2 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 4 | 0 | 1 | 0 | 2 | 1 |
+| last180d | 2026-03-27 | 8 | 0 | 1 | 0 | 3 | 1 |
+| 360d | 2025-09-28 | 14 | 0 | 1 | 0 | 6 | 2 |
+| last720d | 2024-10-03 | 31 | 0 | 1 | 3 | 12 | 5 |
 
 ## Improve this data
 
@@ -48,4 +48,4 @@ Install metadata for ibm-cloud-cli-release lives in the [x-cmd/install](https://
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:05:43Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:00:16Z._
