@@ -32,12 +32,12 @@ x install ibm-cloud-cli-release
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 1 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-06 | 2 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-07-07 | 3 | 0 | 1 | 0 | 0 | 1 |
-| last180d | 2026-04-08 | 7 | 0 | 1 | 0 | 2 | 1 |
-| 360d | 2025-10-10 | 14 | 0 | 1 | 0 | 6 | 2 |
-| last720d | 2024-10-15 | 30 | 0 | 1 | 2 | 12 | 5 |
+| 30d | 2026-09-06 | 1 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-07 | 2 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-07-08 | 3 | 0 | 1 | 0 | 0 | 1 |
+| last180d | 2026-04-09 | 7 | 0 | 1 | 0 | 2 | 1 |
+| 360d | 2025-10-11 | 14 | 0 | 1 | 0 | 6 | 2 |
+| last720d | 2024-10-16 | 30 | 0 | 1 | 2 | 12 | 5 |
 
 ## Improve this data
 
@@ -48,4 +48,4 @@ Install metadata for ibm-cloud-cli-release lives in the [x-cmd/install](https://
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:25:03Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:22:09Z._
