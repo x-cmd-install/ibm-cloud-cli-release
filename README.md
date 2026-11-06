@@ -17,8 +17,8 @@ x install ibm-cloud-cli-release
 
 ## Release
 
-- **Latest**: `v2.48.1` (2026-10-22)
-- **Last commit**: 2026-10-26
+- **Latest**: `v2.49.0` (2026-11-05)
+- **Last commit**: 2026-11-05
 
 ## Popularity
 
@@ -26,18 +26,18 @@ x install ibm-cloud-cli-release
 
 ## Totals (cumulative)
 
-- **Releases**: 127 · **Merged PRs**: 7 · **Open PRs**: 0 · **Closed issues**: 190 · **Open issues**: 29 · **Commits**: 41
+- **Releases**: 128 · **Merged PRs**: 8 · **Open PRs**: 0 · **Closed issues**: 190 · **Open issues**: 29 · **Commits**: 44
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 2 | 0 | 0 | 0 | 0 | 2 |
-| last60d | 2026-09-06 | 3 | 1 | 0 | 0 | 0 | 2 |
-| 90d | 2026-08-07 | 4 | 1 | 0 | 0 | 0 | 4 |
-| last180d | 2026-05-09 | 8 | 1 | 0 | 0 | 2 | 5 |
-| 360d | 2025-11-10 | 15 | 1 | 0 | 0 | 6 | 6 |
-| last720d | 2024-11-15 | 30 | 1 | 0 | 2 | 12 | 10 |
+| 30d | 2026-10-07 | 3 | 1 | 0 | 0 | 0 | 4 |
+| last60d | 2026-09-07 | 4 | 2 | 0 | 0 | 0 | 4 |
+| 90d | 2026-08-08 | 5 | 2 | 0 | 0 | 0 | 6 |
+| last180d | 2026-05-10 | 9 | 2 | 0 | 0 | 2 | 7 |
+| 360d | 2025-11-11 | 16 | 2 | 0 | 0 | 6 | 8 |
+| last720d | 2024-11-16 | 31 | 2 | 0 | 2 | 12 | 13 |
 
 ## Improve this data
 
@@ -48,4 +48,4 @@ Install metadata for ibm-cloud-cli-release lives in the [x-cmd/install](https://
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:35:32Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:49:07Z._
